@@ -1,1 +1,1 @@
-# devkor-study
+hello world!
