@@ -1,2 +1,1 @@
 # devkor-study
-# devkor-study
